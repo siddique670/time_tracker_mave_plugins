@@ -1,6 +1,6 @@
 ### Date 26/01/2024
 
-## Instaram Account Name = mamir_sididque
+## Instagram Account Name = mamir_sididque
 
 ### This repository made for test maven plugins with Jenkins
 
